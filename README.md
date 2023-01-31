@@ -1,1 +1,1 @@
-# Dynamic-scale-based-Chain-Adaptive-Attention
+# Dynamic Scale based Chain Adaptive Attention Network
