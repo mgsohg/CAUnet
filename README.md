@@ -1,4 +1,4 @@
-# HCA-net: Hybrid Chain Attention U-net via Dynamic Receptive Fields for Ultrasound Breast Lesions Segmentation
+# HCA U-net: Hybrid Chain Attention U-net via Dynamic Receptive Fields for Ultrasound Breast Lesions Segmentation
 
 
 This is an implementation of "HCA U-net: Hybrid Chain Attention U-net via Dynamic Receptive Fields for Ultrasound Breast Lesions Segmentation" in Python and powered by the Keras deep learning framework (Tensorflow as backend). 
